@@ -1,5 +1,4 @@
 
-
 /* Start:/bitrix/templates/md-life/styles.css?14589259182137*/
 html, body, div, span, applet, object, iframe, 
 p, blockquote, pre,
@@ -668,11 +667,11 @@ body{
 .addPrice{
 	width: 65px;
 }
-.cpls.fixed .cpls-inner{
-	display: none;
-}
 .complectOption{
 	width: 190px;
+}
+.cpls.fixed .cpls-inner{
+	display: none;
 }
 .item-for-select{
 	width: 183px;
@@ -922,6 +921,28 @@ body{
 	width: 100%;
 	font-size: 13px;
 }	
+.add-desc a{
+	width: 75%;
+}
+.ch-item-img img{
+	height: 100%;
+}
+.item-for-select .ch-item-price{
+	width: 75px;
+	left: 100%;	
+}
+.change-item{
+	width: 100px;
+	left: 100px;
+}
+.ch-item-desc{
+	width: 50%;
+	font-size: 12px;
+}
+.ch-item-name{
+	width: 50%;
+	font-size: 12px;
+}
 .index-slider {display: none;}
 .wr{
 	width: 100%;
@@ -1172,7 +1193,28 @@ body{
 	width: 100%;
 	font-size: 14px;
 }	
-
+.add-desc a{
+	width: 75%;
+}
+.ch-item-img img{
+	height: 100%;
+}
+.item-for-select .ch-item-price{
+	width: 75px;
+	left: 100%;	
+}
+.change-item{
+	width: 100px;
+	left: 100px;
+}
+.ch-item-desc{
+	width: 50%;
+	font-size: 12px;
+}
+.ch-item-name{
+	width: 50%;
+	font-size: 12px;
+}
 .wr{
 	width: 100%;
 	margin: 0;
