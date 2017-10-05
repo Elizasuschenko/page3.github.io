@@ -1,0 +1,1 @@
+if (typeof pluso != "undefined") pluso.setCounter("0", "http://mdgroup.info/katalog/s-45/", undefined, undefined, undefined);
