@@ -1,4 +1,5 @@
 
+
 /* Start:/bitrix/templates/md-life/styles.css?14589259182137*/
 html, body, div, span, applet, object, iframe, 
 p, blockquote, pre,
@@ -657,6 +658,44 @@ body{
 	font-size: 12px;
 	height: 60px;
 	padding-left: 10px;
+}
+.model-complect  {
+	width: 350px;
+}
+.optName{
+	font-size: 10px;
+}
+.addPrice{
+	width: 65px;
+}
+.complectOption{
+	width: 190px;
+}
+.item-for-select{
+	width: 183px;
+	height: 266px;
+}
+.add-desc a{
+	width: 75%;
+}
+.ch-item-img img{
+	height: 100%;
+}
+.item-for-select .ch-item-price{
+	width: 75px;
+	left: 100%;	
+}
+.change-item{
+	width: 100px;
+	left: 100px;
+}
+.ch-item-desc{
+	width: 50%;
+	font-size: 12px;
+}
+.ch-item-name{
+	width: 50%;
+	font-size: 12px;
 }
 .header .request{
 	font-size: 15px;
