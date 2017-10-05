@@ -668,6 +668,9 @@ body{
 .addPrice{
 	width: 65px;
 }
+.cpls.fixed .cpls-inner{
+	display: none;
+}
 .complectOption{
 	width: 190px;
 }
