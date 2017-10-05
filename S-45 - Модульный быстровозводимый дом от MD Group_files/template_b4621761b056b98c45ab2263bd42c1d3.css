@@ -920,7 +920,58 @@ body{
 body{
 	width: 100%;
 	font-size: 13px;
+}
+.optName{
+	font-size: 10px;
+}
+.addPrice{
+	width: 65px;
+}
+.aj-fancy img{
+	width: 50%;
+}
+.complectOption{
+	width: 190px;
+}
+.cpls.fixed .cpls-inner{
+	display: none;
+}
+.item-for-select{
+	width: 95%;
+	height: 266px;
+}
+.add-desc a{
+	width: 55%;
+}
+.ch-item-img img{
+	height: 100%;
+}
+
+.add-desc.item-for-select .ch-item-price{
+	width: 89px;
+	left: 100%;	
+}
+.change-item{
+	width: 100px;
+	left: 100px;
+}
+.ch-item-desc{
+	width: 50%;
+	font-size: 12px;
+}
+.ch-item-name{
+	width: 50%;
+	font-size: 12px;
 }	
+.cpls-inner{
+	width: 100%;
+}
+.cpl-link.selected{
+	width: 48%;
+}
+.cpl-link{
+	width: 48%;
+}
 .add-desc a{
 	width: 75%;
 }
@@ -1193,28 +1244,7 @@ body{
 	width: 100%;
 	font-size: 14px;
 }	
-.add-desc a{
-	width: 75%;
-}
-.ch-item-img img{
-	height: 100%;
-}
-.item-for-select .ch-item-price{
-	width: 75px;
-	left: 100%;	
-}
-.change-item{
-	width: 100px;
-	left: 100px;
-}
-.ch-item-desc{
-	width: 50%;
-	font-size: 12px;
-}
-.ch-item-name{
-	width: 50%;
-	font-size: 12px;
-}
+
 .wr{
 	width: 100%;
 	margin: 0;
@@ -1281,8 +1311,8 @@ body{
 	margin-bottom: 0;
 }
 #order .order-wrapper .texta{
-	width: 91%;
-	margin: 0 0 0px 35px;
+	width: 100%;
+	margin-left: 10%;
 }
 #order .order-wrapper .submit-wr{
 	text-align: center;
